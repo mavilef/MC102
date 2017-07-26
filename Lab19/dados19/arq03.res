@@ -1,3 +1,0 @@
-aas
-asa
-saa

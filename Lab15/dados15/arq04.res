@@ -1,2 +1,0 @@
-removePadrao(+-): 
-Cordas terminam separadas!

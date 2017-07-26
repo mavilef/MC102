@@ -70,7 +70,7 @@ void findTheBiggestAndTheSmallest(unsigned int *vector,unsigned int size ,unsign
 
 	*biggest = vector[componentPosition];
 	*smallest = vector[componentPosition];
-	#pragma acc kernels
+	
 	for(unsigned int i = componentPosition; i < size; i+=3){
 
 		if(vector[i] > *biggest)
@@ -79,7 +79,6 @@ void findTheBiggestAndTheSmallest(unsigned int *vector,unsigned int size ,unsign
 		if(vector[i] < *smallest)
 			*smallest = vector[i];
 			
-	}
 }
 	
 

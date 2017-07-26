@@ -1,1 +1,0 @@
-Cordas terminam emaranhadas!
