@@ -1,0 +1,12 @@
+hloo
+holo
+hool
+lhoo
+loho
+looh
+ohlo
+ohol
+olho
+oloh
+oohl
+oolh

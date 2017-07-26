@@ -1,0 +1,12 @@
+A = {}
+B = {}
+A ^ B = {}
+B = {d, j, n, q}
+A ^ B = {}
+B ^ A = {}
+A = {c, m}
+A ^ B = {}
+A = {c, d, m, n}
+A ^ B = {d, n}
+A = {d, j, n, q}
+A ^ B = {d, j, n, q}

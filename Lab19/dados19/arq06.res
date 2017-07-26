@@ -1,0 +1,12 @@
+aacs
+aasc
+acas
+acsa
+asac
+asca
+caas
+casa
+csaa
+saac
+saca
+scaa

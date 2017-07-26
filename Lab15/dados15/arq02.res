@@ -1,0 +1,2 @@
+removeBloco(*): 
+Cordas terminam separadas!

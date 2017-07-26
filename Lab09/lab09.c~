@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main (){
+
+
+  int x ;
+  float y,c;
+  scanf("%i %f", &x , &y);
+
+  c = x/y;
+
+  printf("%.3f", c);
+
+  return 0;
+
+}
+
+  
+
+  
+
+  
